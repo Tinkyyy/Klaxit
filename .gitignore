@@ -1,0 +1,24 @@
+# Xcode Project
+Klaxit.xcodeproj/*
+**/*.xcodeproj/xcuserdata/
+**/*.xcworkspace/xcuserdata/
+**/.swiftpm/xcode/xcuserdata/
+**/*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+**/*.xcworkspace/xcshareddata/*.xccheckout
+**/*.xcworkspace/xcshareddata/*.xcscmblueprint
+**/*.playground/**/timeline.xctimeline
+.idea/
+
+# Build
+Scripts/build/
+build/
+DerivedData/
+*.ipa
+
+# Others
+**/.DS_Store
+*~
+*.swp
+*.save
+._*
+*.bak
